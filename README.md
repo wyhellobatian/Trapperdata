@@ -15,3 +15,11 @@ entities, it is difficult to unify the classification of threat entities in diff
 on recognizing 6 types of threat entities, namely Hack Organization, Attack Tool, vulnerability, Hash, IP,
 URL, and make corresponding changes to the naming in the DNRTI and CTI datasets that have the
 same meaning as these 6 types of entities to adapt them to the task.
+
+@inproceedings{yang2022trapper,
+  title={TRAPPER: Learning with Weak Supervision for Threat Intelligence Entity Recognition},
+  author={Yang, Yaru and Liu, Zhi and Song, Jiaxing},
+  booktitle={Proceedings of the 4th International Conference on Advanced Information Science and System},
+  pages={1--7},
+  year={2022}
+}
